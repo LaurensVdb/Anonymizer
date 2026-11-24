@@ -1,0 +1,23 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+
+# Test output
+[Tt]est[Rr]esult*/
+*.trx
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Package artifacts
+*.nupkg
+*.snupkg
+
+# Operating system files
+Thumbs.db
+.DS_Store
